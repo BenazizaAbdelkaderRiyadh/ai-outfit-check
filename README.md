@@ -6,7 +6,7 @@ A web application that uses the Gemini API to generate virtual try-on images. Us
 
 | Profile Settings | Outfit Generation |
 | :---: | :---: |
-| ![Profile Settings Screen](<./screenshot1.png>) | ![Outfit Generation Screen](<./screenshot2.png>) |
+| ![Logo](./screenshot1.png) | ![Logo](./screenshot2.png) |
 
 
 ## Features
@@ -61,6 +61,3 @@ This project requires a Google Gemini API key.
 3.  As this project uses ES modules directly in the browser via an import map, there is no build step required.
 4.  Open `index.html` using a local web server.
 
----
-
-This project was built to demonstrate the capabilities of the Gemini API in a modern frontend application."# ai-outfit-check" 
