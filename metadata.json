@@ -1,0 +1,5 @@
+{
+  "name": "AI Outfit Check",
+  "description": "Upload a photo of yourself and your outfit details to see a virtual try-on. Using Gemini, this app generates images of you wearing different outfits you describe or upload.",
+  "requestFramePermissions": []
+}
