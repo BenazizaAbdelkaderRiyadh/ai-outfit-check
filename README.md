@@ -6,7 +6,7 @@ A web application that uses the Gemini API to generate virtual try-on images. Us
 
 | Profile Settings | Outfit Generation |
 | :---: | :---: |
-| ![Logo](./screenshot1.png) | ![Logo](./screenshot2.png) |
+| ![Logo](./Screenshot1.png) | ![Logo](./Screenshot2.png) |
 
 
 ## Features
